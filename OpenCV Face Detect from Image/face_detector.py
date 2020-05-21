@@ -2,7 +2,7 @@ import cv2
 import sys
 
 # Path for image to be detected and classifier path
-# imagePath = "/home/mayoogh/Downloads/photo2.jpg"
+# imagePath = "HappyKids1.png"
 imagePath = sys.argv[1]
 cascPath = "haarcascade_frontalface_default.xml"
 # cascPath = "haarcascade_eye.xml"
